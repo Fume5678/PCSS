@@ -1,8 +1,0 @@
-/home/fume/projects/Qt/PCSS/pract_2/client/build/CMakeFiles/pract_2.dir
-/home/fume/projects/Qt/PCSS/pract_2/client/build/CMakeFiles/edit_cache.dir
-/home/fume/projects/Qt/PCSS/pract_2/client/build/CMakeFiles/rebuild_cache.dir
-/home/fume/projects/Qt/PCSS/pract_2/client/build/CMakeFiles/list_install_components.dir
-/home/fume/projects/Qt/PCSS/pract_2/client/build/CMakeFiles/install.dir
-/home/fume/projects/Qt/PCSS/pract_2/client/build/CMakeFiles/install/local.dir
-/home/fume/projects/Qt/PCSS/pract_2/client/build/CMakeFiles/install/strip.dir
-/home/fume/projects/Qt/PCSS/pract_2/client/build/CMakeFiles/pract_2_autogen.dir
