@@ -134,7 +134,7 @@ httpparser::Response RequestHandler::task_1(httpparser::Request req) {
     }
 
     std::string body;
-    float res = val / 100;
+    float res = val * 100;
 
     body = std::to_string(res);
 
