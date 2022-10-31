@@ -12,6 +12,10 @@ public:
 
     // REST API
     httpparser::Response task_22(httpparser::Request req);
+    httpparser::Response task_25(httpparser::Request req);
+    httpparser::Response task_28(httpparser::Request req);
+    httpparser::Response task_1(httpparser::Request req);
+    httpparser::Response task_4(httpparser::Request req);
 
 };
 
